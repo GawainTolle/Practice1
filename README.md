@@ -1,2 +1,1 @@
-# Practice1
-P1
+# 2. Syntax. Task 1-5
